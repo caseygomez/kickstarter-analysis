@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaings
+# An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover fundraising trends
 
 ![outcomes_launchdate](https://user-images.githubusercontent.com/110272205/188496545-8bd55598-c35a-451f-aa85-89fe603afc96.png)
