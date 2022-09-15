@@ -22,9 +22,9 @@
 
 - Two conclusions about the outcomes based on fundraising goal are that the lower the amount needed the higher the success rate. A fundraising goal of $45,000 or more is extremely likely to fail. 
 
--The data is limited in theater plays with goals greater than $20,000. Perhaps if there were more data sets in this range the data would show a different conclusion. 
+- The data is limited in theater plays with goals greater than $20,000. Perhaps if there were more data sets in this range the data would show a different conclusion. 
 
--In addition to the graphs I created Louise may want to explore data specific to her country of interest and go more in depth with theater plays by launch date. 
+- In addition to the graphs I created Louise may want to explore data specific to her country of interest and go more in depth with theater plays by launch date. 
 
 
 
